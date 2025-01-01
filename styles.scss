@@ -24,7 +24,7 @@ $color-pramiry:gray;
     box-sizing: border-box;
   .box{
     @include setupdisplay();
-    border: 1px solid gray;
+    // border: 1px solid gray;
     color: transparent;
 
   }
